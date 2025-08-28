@@ -29,7 +29,7 @@ Setup and Installation
 Follow these steps to get the project running on your local machine.
 
 Clone the Repository
-Replace YourUsername/YourRepoName.git with your actual repository URL.
+(https://github.com/VishwasJatav/CLI-agent-Onsite-Healthcare-.git)
 
 Bash
 
